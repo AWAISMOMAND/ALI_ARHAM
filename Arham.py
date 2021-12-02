@@ -561,4 +561,4 @@ class crackmenu:
 # Decompile by Technical arham :)
 # /usr/linux/desktop/decompiler
 # Decompiled from: Python 2.7.18 (version)
-#========================================
+#=======================================
