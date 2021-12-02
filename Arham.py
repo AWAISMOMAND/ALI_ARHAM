@@ -562,7 +562,7 @@ def pilih():
 
         print '\x1b[1;91mFill in correctly'
 
-        pilih()
+       
 
     elif unikers == '1':
 
