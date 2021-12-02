@@ -557,8 +557,3 @@ class crackmenu:
         global loop
         (
 #coding=utf-8
-#========================================
-# Decompile by Technical arham :)
-# /usr/linux/desktop/decompiler
-# Decompiled from: Python 2.7.18 (version)
-#=======================================
