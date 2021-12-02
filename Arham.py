@@ -562,8 +562,6 @@ def pilih():
 
         print '\x1b[1;91mFill in correctly'
 
-       
-
     elif unikers == '1':
 
         super()
